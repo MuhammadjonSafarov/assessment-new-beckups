@@ -1,2 +1,2 @@
 # assessment-new-beckups
-Assessment test markazining ma'lumotlari
+Assessment test markazining ma'lumotlari va cash ma'lumotlari 
